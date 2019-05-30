@@ -75,6 +75,11 @@ h1 {
 .no-margin-top {
 	margin-top: 0; /* remove margin on things like headers */
 }
+
+.car{
+	float: right;
+	padding: 40px;
+}
 footer{
 	text-align: center;
 }
